@@ -13,7 +13,7 @@ A simple, modern currency converter built with **React**, **Vite**, and **Tailwi
 
 ## 🖼️ Preview
 
-![screenshot](./assets/screenshot_project.png)
+![screenshot](./src/assets/screenshot_project.png)
 
 
 ## ⚙️ Tech Stack
