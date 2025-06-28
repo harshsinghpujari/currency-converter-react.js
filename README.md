@@ -1,12 +1,75 @@
-# React + Vite
+# Currency Converter 💱
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, modern currency converter built with **React**, **Vite**, and **Tailwind CSS**. It fetches real-time exchange rates using an open API and provides a clean, responsive interface.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Convert between multiple currencies
+- Real-time exchange rates
+- Intuitive and minimalist UI
+- Swap currencies with a single click
+- Fully responsive and mobile-friendly
+- Built with React + Vite + Tailwind CSS
 
-## Expanding the ESLint configuration
+## 🖼️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![screenshot](./assets/screenshot_project.png)
+
+
+## ⚙️ Tech Stack
+
+- [React](https://reactjs.org)
+- [Vite](https://vitejs.dev)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency-api)
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/harshsinghpujari/currency-converter-react.js.git
+cd currency-converter
+```
+
+Install dependencies:
+
+```bash
+npm install
+
+```
+
+Run locally: 
+```bash
+
+npm run dev
+
+```
+
+Build for production: 
+```bash
+npm run build
+```
+
+🌐 Live Demo
+
+View on Netlify
+
+(https://chipper-dragon-35f3ca.netlify.app/)
+
+
+📝 License
+
+This project is open source and available under the MIT License.
+
+
+✨ Credits
+
+Background image: Pexels
+
+Exchange rates: Fawaz Ahmed Currency API
+
+Feel free to contribute or suggest improvements! PRs are welcome. 💙
+
+✍🏻Author: 
+Himanshu Singh
